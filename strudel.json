@@ -1,4 +1,5 @@
 {
-    "_base": "https://raw.githubusercontent.com/virpris/strudel-samples/main/",
-    "guitar": "river_bed_stem.wav"
+    "_base": "https://raw.githubusercontent.com/virpris/strudel-samples/",
+    "guitar": "river_bed_stem.wav",
+    "chimes": "FF_CA_foley_windchimes_ethereal_emerge.wav"
 }
